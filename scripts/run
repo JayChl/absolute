@@ -1,0 +1,5 @@
+#!/bin/bash
+
+source ./scripts/platform_info
+
+echo $(get_platform_name)
